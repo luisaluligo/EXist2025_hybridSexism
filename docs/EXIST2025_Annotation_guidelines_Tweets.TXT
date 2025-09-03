@@ -1,0 +1,139 @@
+
+3
+ 
+ 
+ 
+Sexism Identification  
+Annotation Guidelines 
+Description 
+The  Oxford  English  Dictionary  defines  sexism  as  “prejudice,  stereotyping  or  discrimination, 
+typically against women, on the basis of sex”.  In  general,  sexist  behaviors  and  discourses 
+underestimate the role of women. Inequality and discrimination against women that remains 
+embedded in society is increasingly being replicated online.  
+However, detecting online sexism may be difficult, as it may be expressed in very different forms. 
+Sexism may sound “friendly”: the statement “Women must be loved and respected, always treat 
+them like a fragile glass” may seem positive, but is actually considering that women are weaker 
+than men. Sexism may sound “funny”, as it is the case of sexist jokes or humor (“You have to love 
+women... just that... You will never understand them.”).  Sexism  may  sound  “offensive”  and 
+“hateful”, as in “Humiliate, expose and degrade yourself as the fucking bitch you are if you want 
+a real man to give you attention”. However, even the most subtle forms of sexism can be as 
+pernicious as the most violent ones and affect women in many facets of their lives, including 
+domestic and parenting roles, career opportunities, sexual image, and life expectations, to name 
+a few.  
+Objectives 
+The aim of this work is to annotate tweets with a set of labels, specified below, that indicate 
+whether the message is sexist or not, and (if so) what kind of sexism it encloses and the intention 
+of the author of the message when he/she wrote it. 
+Warnings:  
+You will be asked to read potentially sexist and hateful messages. If this may cause you distress, 
+please do not continue with the task. 
+The task is estimated to last half an hour. The work done is not saved and submitted until it is 
+finished. Thus, we strongly recommend doing it at once, without interruptions, to avoid losing 
+information and having to start over. Once the “Submit” button is pressed, you will not be able to 
+modify or complete your answers. Remember that the work must be completed to be accepted 
+and paid. 
+ 
+Guidelines 
+You will be shown 60 tweets, one by one. You must read each tweet carefully to answer the following 
+question: 
+1. Is the tweet sexist, in any form, or does it describe situations in 
+which such discrimination occurs (i.e., it is sexist itself, describes 
+a sexist situation or criticizes a sexist behaviour)? 
+           
+●  YES, the tweet is sexist itself, describes a sexist situation or criticizes a sexist behavior. 
+Examples of tweets in this category are: 
+○  “It’s less of #adaywithoutwomen and more of a day without feminists, which, to be 
+quite honest, sounds lovely.”. 
+○  “I’m sorry but women cannot drive, call me sexist or whatever but it is true.”. 
+○  “You look like a whore in those pants" - My brother of 13 when he saw me in a 
+leather pant”. 
+ 
+●  NO, the tweet does not prejudice, underestimate or discriminate women. Examples of 
+tweets in this category are:  
+○  “Where all the white women at?”. 
+○  “The shocking video of a woman at the wheel who miraculously escapes an 
+assassination attempt” 
+○  “Don’t my arguments convince you? Let’s try to debate. Do you use "feminazi"? 
+You stay alone.”. 
+ 
+IMPORTANT NOTE: Remember that sexism may be expressed in different forms! It may sound 
+friendly, funny, offensive, hateful or even violent. Sexism comprises any form of oppression or 
+prejudice against women because of their sex. This discrimination can be based on different 
+beliefs such as stereotypes, the belief that men are superior to women or irrational hatred of 
+women (misogyny). Note that misogyny is a radical/hate-driven sexism. 
+ 
+If the answer to the previous question was YES, the two following questions must be answered: 
+2. What do you think the intention of the person that wrote the tweet 
+is? 
+ 
+●  DIRECT: The intention is to write a message that is sexist by itself, as in: 
+o  “A woman needs love, to fill the fridge, if a man can give this to her in return for her 
+services (housework, cooking, etc), I don’t see what else she needs“. 
+ 
+●  REPORTED: The intention of the author is to report or describe a sexist situation or event 
+suffered by a woman or women in first or third person, as in: 
+o  “I doze in the subway, I open my eyes feeling something weird: the hand of the 
+man sat next to me on my leg #SquealOnYourPig”.  
+ 
+●  JUDGEMENTAL  The  intention  of  the  author  is  to  be  judgemental,  since  the  tweet 
+describes sexist situations or behaviors with the aim to condemning them. 
+o  “As usual, the woman was the one quitting her job for the family’s welfare”. 
+ 
+3. What type of sexism does the tweet enclose? 
+Sexism may affect women in many facets of their lives, including domestic and parenting roles, 
+career opportunities, sexual image and life expectations, to name a few. According to this, the 
+tweet must be categorized in one or more of the following categories: 
+ 
+●  Ideological  discredit,  denying  inequality  and  flipped  narrative  (IDEOLOGICAL-
+INEQUALITY):  this  category  includes  all  tweets  or  gabs  that  discredit  the  feminist 
+movement in order to devalue, belittle and defame the struggle of women in all areas. Also 
+included are messages that reject inequality between men and women, or present men 
+as victims of gender-based oppression. Examples of tweets in this category are: 
+○  “#Feminism is a war on men, but it's also a war on women. It's a war on female 
+nature, a war on femininity.”. 
+○  “I think the whole equality thing is getting out of hand. We are different, thats how 
+were made!”. 
+○  “OK. Whew, that’s good. Get a real degree and forget this poison of victimhood 
+known as feminism”. 
+ 
+●  Role  stereotyping  and  dominance  (STEREOTYPING-DOMINANCE):  this  category 
+includes messages that express false ideas about women that suggest they are more 
+suitable or inappropriate for certain tasks. It also includes any claim that implies that men 
+are somehow superior to women. Examples of tweets in this category are: 
+○  “Most women no longer have the desire or the knowledge to develop a high quality 
+character, even if they wanted to.”. 
+○  “I feel like everytime I flirt with a girl they start to imagine all the ways they can 
+utilize me”. 
+○  “Woman driving, be careful!”. 
+ 
+●  Objectification and Physical stereotyping (OBJECTIFICATION):  it includes messages 
+where women are presented as objects apart from their dignity and personal aspects. We 
+also include messages that assume or describe certain physical qualities that women must 
+have to fulfill traditional gender roles, for example, ideas that suggest that women should 
+maintain a standard and ideal of beauty or attacks on a woman's physique. Examples of 
+tweets in this category are: 
+○  “No offense but I've never seen an attractive african american hooker. Not a 
+single one”. 
+○  “Most of the times I just want women for sex just because everytime I try to make 
+a relationship out of it they always break my heart”. 
+○  “Don't get married than blame all woman for your poor investment. You should of 
+got a hooker but instead you choose to go get a wedding ring.”. 
+ 
+●  Sexual violence (SEXUAL-VIOLENCE): this category includes messages where sexual 
+suggestions, requests for sexual favors or harassment of a sexual nature (rape or sexual 
+assault) are made. Examples of tweets in this category are: 
+○  “I wanna touch your tits..you can't imagine what I can do on your body.”. 
+○  “fuck that cunt, I would with my fist”. 
+○  “Now I understand why woman that get no action are miserable. Semen retention 
+almost drove me insane”. 
+ 
+●  Misogyny  and  violence  (MISOGYNY-NON-SEXUAL-VIOLENCE):  this  category 
+includes expressions of hatred and violence towards women. Examples of tweets in this 
+category are: 
+○  “Domestic abuse is never okay.... Unless your wife is a bitch” 
+○  “Some woman are so toxic they don't even know they are draining everyone 
+around them in poison. If you lack self awareness you won't even notice how toxic 
+you really are”. 
+○  “Regardless, if you grab a woman by the throat, you’re a massive cunt”. 
+ 
+ 

@@ -1,0 +1,16 @@
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar datos y modelos
+src/data/
+src/models/
+*.csv
+*.h5
+*.safetensors
+
+# Ignorar archivos de configuración de VS Code
+.vscode//data/
+
+src/model/
+evaluation/
