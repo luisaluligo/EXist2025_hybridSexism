@@ -31,3 +31,26 @@ This repository contains the code, models, and documentation for a hybrid system
    ```sh
    conda env create -f completeEnv.yml
    conda activate EXIST2025
+
+
+## Preprocess data and generate soft labels:
+
+   Run the relevant notebook cells in src/notebooks/training_Subtask1_1-1_2_Transformer copy.ipynb.
+   
+   Train models:
+   
+   Follow the training pipeline in the notebook for binary and multiclass tasks.
+   Models and tokenizers are saved are avaibles in huggingface.
+   
+   https://huggingface.co/LuisaLuligo/sexism-intention-xlm-roberta
+   https://huggingface.co/LuisaLuligo/sexism-binary-xlm-roberta
+   
+   Evaluate:
+   Use the evaluation cells to compute metrics and generate plots.
+   
+   Hybrid Inference:
+   See src/notebooks/LLM_Decoupled_rag.ipynb for hybrid system usage.
+   
+##  How to Predict
+   Use the provided scripts/notebooks to load the trained models and run predictions on new data.
+   For hybrid predictions, ensure the LLM and vector database (Qdrant) are running.
